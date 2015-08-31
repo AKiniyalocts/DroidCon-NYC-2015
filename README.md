@@ -22,3 +22,5 @@
 [at-annotationprocessors-byexample-droidcon-nyc-2015](https://speakerdeck.com/michaelevans/at-annotationprocessors-byexample-droidcon-nyc-2015) - michaelevans
 
 [continuous-integration-for-android-applications](https://speakerdeck.com/sddamico/continuous-integration-for-android-applications) - sddamico
+
+[painless-ui-testing](https://speakerdeck.com/kaushikgopal/painless-ui-testing) - kaushikgopal
